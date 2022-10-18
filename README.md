@@ -14,6 +14,8 @@
 
 ###### **Structural Pattern**
 1. Decorator
+2. Adapter
+3. Bridge
 
 ###### **Behavioral Pattern**
 tbc
