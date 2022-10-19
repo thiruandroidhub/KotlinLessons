@@ -16,6 +16,7 @@
 1. Decorator
 2. Adapter
 3. Bridge
+4. Composite
 
 ###### **Behavioral Pattern**
 tbc
