@@ -3,7 +3,7 @@ package designpatterns.structural
 import java.io.File
 
 /**
- * Flyweight objects are stateless and are used to keep the objects as light/less weight
+ * Flyweight objects are stateless objects and they stay light/less weight in memory
  */
 object RobotImages {
     val directionImages = listOf(

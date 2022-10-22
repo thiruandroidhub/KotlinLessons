@@ -1,7 +1,7 @@
 package designpatterns.structural
 
 /**
- * A facade will be an object to get access to a complex system
+ * A facade will be an object to get access to a complex system without knowing the complex system much behind it
  */
 class ComplexCache(
     private val filePath: String
