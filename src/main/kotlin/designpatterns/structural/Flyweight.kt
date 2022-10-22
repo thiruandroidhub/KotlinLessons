@@ -17,10 +17,10 @@ object RobotImages {
 
 class GameRobot {
 
-    // the direction the robot is in
+    // the default direction a robot is in when it is drawn on the game board
     private var direction = Direction.LEFT
 
-    // access the flywight object to get the direction images rather creating the list everytime when the object is created
+    // access the flyweight object to get the direction images rather creating the list everytime when the robot object is created to save memory
     val directionImages = RobotImages.directionImages
 
     fun getDirectionImage() {
