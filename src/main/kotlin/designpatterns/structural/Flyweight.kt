@@ -4,6 +4,7 @@ import java.io.File
 
 /**
  * Flyweight objects are stateless objects and they stay light/less weight in memory
+ * Here we are creating the object using our Singleton creational pattern and structuring the object as less weight using the flyweight structural pattern
  */
 object RobotImages {
     val directionImages = listOf(
