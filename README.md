@@ -17,6 +17,7 @@
 2. Adapter
 3. Bridge
 4. Composite
+5. Proxy
 
 ###### **Behavioral Pattern**
-tbc
+1. Strategy
