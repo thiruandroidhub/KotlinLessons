@@ -21,3 +21,5 @@
 
 ###### **Behavioral Pattern**
 1. Strategy
+2. Iterator
+3. State
