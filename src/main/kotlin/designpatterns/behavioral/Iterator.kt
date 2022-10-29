@@ -1,7 +1,7 @@
 package designpatterns.behavioral
 
 /**
- * Iterator design pattern is to make an object iterable so that we can loop/iterate through
+ * Iterator design pattern is to make an object iterable so that we can loop/iterate through it.
  */
 class FruitBag(
     private val fruits: List<Fruit>

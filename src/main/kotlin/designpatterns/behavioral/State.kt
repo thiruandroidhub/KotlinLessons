@@ -1,7 +1,7 @@
 package designpatterns.behavioral
 
 /**
- * State design pattern is to give a context has some states and control them by switching from one to another.
+ * State design pattern is to give a context has some states and control them by switching from one state to another.
  */
 class Document {
 
