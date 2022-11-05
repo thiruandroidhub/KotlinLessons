@@ -23,3 +23,5 @@
 1. Strategy
 2. Iterator
 3. State
+4. Command
+5. Chain of Responsibility
