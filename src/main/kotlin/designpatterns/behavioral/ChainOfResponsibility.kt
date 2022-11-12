@@ -28,5 +28,5 @@ val validate: (Handler) -> Handler = { next: Handler ->
 
 fun main() {
     val chain: Handler = validate(authenticate(authorise(finalResponse())))
-    chain(Request("", "jaons@gmail.com"))
+    chain(Request("Json", "jaons@gmail.com"))
 }
