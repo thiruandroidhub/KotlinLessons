@@ -25,3 +25,6 @@
 3. State
 4. Command
 5. Chain of Responsibility
+
+[DesignPatternsInKotlin - YouTube](https://youtube.com/playlist?list=PLUBTNUwSOzsbgRuMOixiaejOr0025eDrK)
+
