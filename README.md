@@ -26,6 +26,7 @@
 4. Command
 5. Chain of Responsibility
 6. Interpreter
+7. Mediator
 
 [DesignPatternsInKotlin - YouTube](https://youtube.com/playlist?list=PLUBTNUwSOzsbgRuMOixiaejOr0025eDrK)
 
