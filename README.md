@@ -27,6 +27,7 @@
 5. Chain of Responsibility
 6. Interpreter
 7. Mediator
+8. Momento
 
 [DesignPatternsInKotlin - YouTube](https://youtube.com/playlist?list=PLUBTNUwSOzsbgRuMOixiaejOr0025eDrK)
 
