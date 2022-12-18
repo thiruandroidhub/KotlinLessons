@@ -28,6 +28,7 @@
 6. Interpreter
 7. Mediator
 8. Momento
+9. Visitor
 
 [DesignPatternsInKotlin - YouTube](https://youtube.com/playlist?list=PLUBTNUwSOzsbgRuMOixiaejOr0025eDrK)
 
