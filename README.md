@@ -29,6 +29,7 @@
 7. Mediator
 8. Momento
 9. Visitor
+10. TemplateMethod
 
 [DesignPatternsInKotlin - YouTube](https://youtube.com/playlist?list=PLUBTNUwSOzsbgRuMOixiaejOr0025eDrK)
 
