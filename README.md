@@ -30,6 +30,7 @@
 8. Momento
 9. Visitor
 10. TemplateMethod
+11. Observer
 
 [DesignPatternsInKotlin - YouTube](https://youtube.com/playlist?list=PLUBTNUwSOzsbgRuMOixiaejOr0025eDrK)
 
